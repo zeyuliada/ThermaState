@@ -1,0 +1,20 @@
+# Maven
+thermastate/target/
+
+# C++ build
+ThermaIndex/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model weights (too large for git, download separately)
+*.pt
